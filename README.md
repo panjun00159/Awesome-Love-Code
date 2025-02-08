@@ -18,7 +18,7 @@
         <input type="password" id="password" name="password" required><br><br>
 
         <!-- 插入 reCAPTCHA 验证码 -->
-        <div class="g-recaptcha" data-sitekey="你的Site Key"></div>
+        <div class="g-recaptcha" data-sitekey="6LcgftAqAAAAAFo7pXZW-npEay_DaaPzLug3mYAn"></div>
         
         <br><br>
         <button type="submit">提交</button>
